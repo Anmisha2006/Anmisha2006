@@ -91,5 +91,5 @@ Web app using HTML, CSS, PHP, and MySQL for managing student records.
 
 ## 📫 Connect With Me
 - 📧 Email: surataanmisha@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
+- 🔗 LinkedIn: www.linkedin.com/in/anmisha-surata  
 - 🌐 Portfolio: https://v0-surataanmisha.vercel.app  
